@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "username": "khasan",
+        "email": "khasanabdukarimov1@gmail.com",
+        "password": "1111",
+        "isAdmin": true,
+        "persmission": [
+            1,
+            2,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 2,
+        "username": "Madaminov",
+        "email": "madaminovmuhammadali200321@gmail.com",
+        "password": "1111",
+        "isAdmin": true,
+        "persmission": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 3,
+        "username": "Ali",
+        "email": "madaminovmuhammadali200321@gmail.com",
+        "password": "1111",
+        "isAdmin": true,
+        "persmission": [
+            1,
+            2,
+            3
+        ]
+    }
+]
